@@ -9,6 +9,10 @@ A curated list of awesome 3D printing resources.
 > <sub>🌐 [LuaCAD Website](https://luacad.ad-si.com)</sub>
 
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/ad-si/awesome-3d-printing">upstream project</a>’s organised directory of CAD tools, firmware, slicers, materials and model repositories. Bringing these stages together helps makers reuse existing designs and compare compatible tooling before building a workflow from scratch. Its contribution is easier discovery and informed reuse; reductions in failed prints or material consumption depend on the chosen tools and physical printing conditions.</sub>
+<!-- impact-note:end -->
+
 ## Contents
 
 <!-- toc -->
